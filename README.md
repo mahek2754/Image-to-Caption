@@ -13,7 +13,7 @@ Image Caption Generator is a machine learning model that can generate meaningful
 # Brief Overview
 [(Back to top)](#table-of-contents)
 
-This project involved building a model that can generate meaningful textual descriptions for given input images. To start, we gathered a dataset of images and their associated captions. Once we have completed the data collection process, we proceeded to build a model using Convolutional Nueral Networks (CNN) and Recurrent Nueral Networks (RNN) in combination. CNNs were used to extract meaningful features from the input images, while RNNs, specifically Long Short-Term Memory (LSTM) networks, were employed to generate captions based on the extracted features.
+This project focused on developing a model capable of generating descriptive captions for input images. We began by curating a dataset comprising images paired with corresponding captions. Following data collection, we constructed a model that integrates Convolutional Neural Networks (CNNs) for extracting pertinent image features and Recurrent Neural Networks (RNNs), specifically Long Short-Term Memory (LSTM) networks, for generating captions based on these extracted features.
 
 # Installation
 [(Back to top)](#table-of-contents)
@@ -24,7 +24,7 @@ Open Git Bash and change the directory to the location where the repository is t
   git init
 ```
 ```shell
-  git clone https://github.com/SanKolisetty/Image-to-Caption-Generator.git
+  git clone https://github.com/mahek2754/Image-to-Caption.git
 ```
 Now, install the requirements using the following command.
 
